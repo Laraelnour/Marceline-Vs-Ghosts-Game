@@ -6,7 +6,7 @@ The original game can be found on my profile under the name 'Space-Adventure_-Su
 Drawings and Characters have been created by Lara Abouelnour.
 Audios used have been taken from other sources. Those sources are mentioned throughout the code.
 
-Unfortunately, the files are too many to include on GitHub, however feel free to checkout the 'Space Adventure.mp4' video attached instead. 
+Unfortunately, the files are too many to include on GitHub, however feel free to checkout the 'Marceline Vs Ghost Game.mp4' video attached instead. 
 Do not hesistate to contact me if you wish to be sent the files.
 
 Thank you,
